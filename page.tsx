@@ -31,7 +31,7 @@ export default function Page() {
             animate={{ opacity: 1 }}
             transition={{ delay: 0.4 }}
           >
-            Junior Software Engineer
+            Full Stack Developer | Python | NodeJs | Back-end | Front-End | ML/DL
           </motion.p>
         </motion.section>
 
