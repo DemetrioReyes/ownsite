@@ -3,7 +3,7 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'Demetrio Reyes Martinez',
-  description: 'Junior Software Engineer',
+  description: 'Software Engineer',
 }
 
 export default function RootLayout({
